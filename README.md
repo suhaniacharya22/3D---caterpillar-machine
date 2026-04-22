@@ -85,6 +85,17 @@ Full technical report (including theory, pipeline, anisotropy analysis, and bonu
 
 ---
 
+## Download Full Model
+
+The complete trained model and outputs (508 MB) are available here:  
+[[Download the full model]]([url](https://drive.google.com/file/d/1aRzDdof2WZ5cUc73bknu4r1JsjkK8PXf/view?usp=sharing))
+
+Contents:
+- point_cloud/iteration_7000/point_cloud.ply
+- point_cloud/iteration_30000/point_cloud.ply  ← Best quality model
+- cameras.json
+- cfg_args
+
 ## References
 
 - Kerbl et al. (2023). 3D Gaussian Splatting for Real-Time Radiance Field Rendering. *ACM TOG*
