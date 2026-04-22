@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "This project implements the method described below."
+references:
+  - type: article
+    authors:
+      - family-names: Kerbl
+        given-names: Bernhard
+      - family-names: Kopanas
+        given-names: Georgios
+      - family-names: Leimkühler
+        given-names: Thomas
+      - family-names: Drettakis
+        given-names: George
+    title: "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+    year: 2023
+    journal: "ACM Transactions on Graphics"
+    volume: 42
+    issue: 4
+    url: https://arxiv.org/pdf/2308.04079
