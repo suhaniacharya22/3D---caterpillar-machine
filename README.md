@@ -35,7 +35,7 @@ Images available on Kaggle:
 [suhanimanishacharya/caterpillar-images](https://www.kaggle.com/datasets/suhanimanishacharya/caterpillar-images)
 
 ### 2. Run the Notebook
-Open `notebook/3dgs_caterpillar.ipynb` in Kaggle with **GPU T4 x2** enabled.  
+Open [Kaggle notebook](https://www.kaggle.com/code/suhanimanishacharya/suhani-acharya-au2220106-sta306-project) in Kaggle with **GPU T4 x2** enabled.  
 Run all cells sequentially.
 
 ### 3. View the 3D Model
