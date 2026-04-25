@@ -8,7 +8,7 @@ reconstruction of a Caterpillar 950F wheel loader — a subject chosen for its
 rich anisotropic spatial correlations (hydraulic arms, tyre treads, flat 
 painted panels, structural edges).
 
-Based on: [Kerbl et al., 2023 — 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+Based on: [Kerbl et al., 2023 — 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/pdf/2308.04079)
 
 ---
 
