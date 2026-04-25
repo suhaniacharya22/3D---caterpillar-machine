@@ -1,18 +1,37 @@
 # 3D Gaussian Splatting — Caterpillar 950F Reconstruction
 ### STA306 Project | BSc Computer Science | April 2026 | Suhani Acharya
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## Project Overview
 
 This project implements **3D Gaussian Splatting (3DGS)** for photorealistic 
 reconstruction of a Caterpillar 950F wheel loader — a subject chosen for its 
-rich **anisotropic spatial correlations** (hydraulic arms, tyre treads, flat 
+rich anisotropic spatial correlations (hydraulic arms, tyre treads, flat 
 painted panels, structural edges).
 
 Based on: [Kerbl et al., 2023 — 3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
 ---
+
+## Repository Structure
+```
+3D---caterpillar-machine/
+├── README.md
+├── CITATION.cff
+├── notebook/
+│   └── suhani-acharya-AU2220106-sta306-project.ipynb
+├── report/
+│   └── Suhani Acharya_AU2220106_Report.pdf
+├── results/
+│   └── renders/
+│       ├── front view (a).png
+│       ├── front view (b).png
+│       ├── back view (a).png
+│       ├── back view (b).png
+│       ├── side view (a).png
+│       └── side view (b).png
+└── colmap_output/
+    └── cameras.json
+```
 
 ## Results
 
@@ -39,7 +58,7 @@ Open [Kaggle notebook](https://www.kaggle.com/code/suhanimanishacharya/suhani-ac
 Run all cells sequentially.
 
 ### 3. View the 3D Model
-Download `results/point_cloud/point_cloud.ply` and open in:  
+Download `point_cloud.ply` from the Google Drive link below (Full Model)
 [SuperSplat Viewer](https://playcanvas.com/supersplat/editor)
 
 ---
@@ -49,11 +68,11 @@ Download `results/point_cloud/point_cloud.ply` and open in:
 | Surface | Anisotropy Type | Captured status|
 |---------|----------------|-----------|
 | Painted body panels | Planar (flat) | Excellent |
-| Tyre tread | Periodic directional | Partial |
-| Hydraulic arms | Linear (elongated) | Partial |
-| Structural edges | Linear (needle) | Good |
-| Glass windows | Transparent planar | Failed |
-| Specular metal joints | View-dependent | Partial |
+| Rubber tyres | Periodic directional | Excellent |
+| Hydraulic arms | Linear (elongated) | Moderate |
+| Sky/background | Linear (needle) | Poor |
+| Glass windows | Transparent planar | Poor |
+| Top View | View-dependent | Poor |
 
 ---
 
