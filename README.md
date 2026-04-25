@@ -58,7 +58,8 @@ Open [Kaggle notebook](https://www.kaggle.com/code/suhanimanishacharya/suhani-ac
 Run all cells sequentially.
 
 ### 3. View the 3D Model
-Download `point_cloud.ply` from the Google Drive link below (Full Model)
+Download `point_cloud.ply` from the Google Drive link below (Full Model) and open in:
+
 [SuperSplat Viewer](https://playcanvas.com/supersplat/editor)
 
 ---
