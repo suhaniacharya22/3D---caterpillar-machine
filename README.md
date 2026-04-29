@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting — Caterpillar 950F Reconstruction
+# 3D Gaussian Splatting - Caterpillar 950F Reconstruction
 ### STA306 Project | BSc Computer Science | April 2026 | Suhani Acharya
 
 ## Project Overview
