@@ -101,7 +101,7 @@ Five novel modifications proposed for better anisotropic capture:
 ## Report
 
 Full technical report (including theory, pipeline, anisotropy analysis, and bonus proposals):  
-[Download Report](report/3DGS_Report_FINAL.docx)
+[Download Report](report/Suhani Acharya_AU2220106_Report.pdf)
 
 ---
 
