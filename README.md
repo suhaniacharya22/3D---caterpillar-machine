@@ -102,7 +102,7 @@ Five novel modifications proposed for better anisotropic capture:
 
 Full technical report (including theory, pipeline, anisotropy analysis, and bonus proposals):
 
-[View Report](#report)
+[View Report](./report)
 
 ---
 
